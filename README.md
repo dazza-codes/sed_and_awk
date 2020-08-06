@@ -35,7 +35,6 @@ kind.
 
 ### Note
 
-If any permission for the O'Reilly code in this repository needs to be
-withdrawn, please open an issue on the project and the code will be
-removed.  The O'Reilly project code does not seem to permit any
-forks or other routine github collaborations for issues and PRs.
+O'Reilly granted permission to host example code in this repository,
+see issue #1 for details.  The O'Reilly project code does not seem to
+permit any forks or other routine github collaborations for issues and PRs.
